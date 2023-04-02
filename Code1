@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hora em João Pessoa</title>
+  </head>
+  <body>
+    <h1>A hora em João Pessoa é:</h1>
+    <div id="hora"></div>
+  </body>
+</html>
